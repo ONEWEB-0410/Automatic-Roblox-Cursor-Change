@@ -3,7 +3,7 @@
 Change automatic your roblox cursor images
 
 
-# Installation Guide
+# How to download it?
 
 First Download this file
 
@@ -33,7 +33,7 @@ After, provide the path of your custom images
 
 And if everything has been right, the robloc cursor should have been replaced by your custom one(s)!
 
-# Backup
+## Backup
 
 In order to refrain from incidents, after you have provided your custom  image(s), the default roblox files are transfered to a folder named roblox_default_files.
 If you want to acees this folder, this is its directory ..your-user-profile-goes-here../roblox/version/.. your-roblox-version-goes-here../content/textures/Cursors/KeyboardMouse/roblox_default_files
