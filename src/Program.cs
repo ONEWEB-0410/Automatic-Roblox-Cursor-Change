@@ -85,7 +85,7 @@ namespace AutomaticCursorChange
 
                                         }
                                     }
-                                    Console.WriteLine(@"Please copy the path that is a similar type of  .../roblox/version/.../content  and is the most recent one (you can easily determine which one is the most recent one as the creation date is provided) ");
+                                    Console.WriteLine(@"Please copy the path that is similar to  .../roblox/version/.../content  and is the most recent one (you can easily determine which one is the most recent one as the creation date is provided) ");
 
                                     string content_path = Console.ReadLine();
 
@@ -123,7 +123,7 @@ namespace AutomaticCursorChange
                                                             File.Copy(Path.Combine(full_path, hName), Path.Combine(backup, hName));
                                                         }
                                                         Delete(old_files); // Delete the old files
-                                                        Console.WriteLine("> [...] - Backup succesfully created!");
+                                                        Console.WriteLine("> [...] - Backup has succesfully been created!");
                                                     }
                                                     catch(IOException copyError)
                                                     {
