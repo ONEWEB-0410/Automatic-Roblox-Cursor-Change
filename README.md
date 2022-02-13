@@ -7,7 +7,7 @@ Change automatic your roblox cursor images
 
 First Download this file
 
-![εικόνα](https://user-images.githubusercontent.com/86625998/153728052-e58420aa-77c3-40ac-864b-658aecbd7784.png)
+![image](https://user-images.githubusercontent.com/69854495/153757611-60df603e-4cef-4fb0-b18b-b0af593efaf1.png)
 
 Unzip the zip and then click the setup.exe
 
@@ -22,10 +22,6 @@ If you have done everything correct something like this must appear
 Currently, you can use only the Custom command, as the others one are not completed.
 
 So, type custom and then y:
-
-![εικόνα](https://user-images.githubusercontent.com/86625998/153728365-29159e4a-7561-495a-86ad-83ce592b7f34.png)
-
-Then type the most recent one(you can see its creation date and hour under it) that is similar to this format: .../roblox/version/.../content
 
 After, provide the path of your custom images
 
