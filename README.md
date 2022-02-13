@@ -34,5 +34,5 @@ And if everything has been right, the robloc cursor should have been replaced by
 In order to refrain from incidents, after you have provided your custom  image(s), the default roblox files are transfered to a folder named roblox_default_files.
 If you want to acees this folder, this is its directory ..your-user-profile-goes-here../roblox/version/.. your-roblox-version-goes-here../content/textures/Cursors/KeyboardMouse/roblox_default_files
 
-
+If you also by accident delete the backup file, you can find the default roblox cursors in the classic folder
 
